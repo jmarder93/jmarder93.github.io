@@ -1,0 +1,23 @@
+body {
+  background-color: lightgrey;
+  margin: 25px;
+}
+
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  text-decoration: underline;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  font-family: sans-serif;
+  justify-content: space-around;
+  text-decoration: none;
+  padding-top: 25px;
+}
